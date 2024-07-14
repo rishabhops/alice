@@ -41,7 +41,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/rishabhops/alicev6 && cd alicev6
+   git clone https://github.com/rishabhops/alice && cd alice
    ```
 6. **Install Requirements**
    ```bash
