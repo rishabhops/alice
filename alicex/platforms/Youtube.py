@@ -26,6 +26,11 @@ async def shell_cmd(cmd):
     return out.decode("utf-8")
 
 
+'''
+add cokies in data folder
+
+'''
+
 cookies_file = "data/cookies.txt"
 
 class YouTubeAPI:
