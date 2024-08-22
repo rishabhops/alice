@@ -47,18 +47,17 @@
    ```bash
    pip3 install -U -r requirements.txt
    ```
-7. **Create .env  with sample.env**
+7. **installing nano**
    ```bash
-   cp sample.env .env
+   pip3 install nano
    ```
-   - Edit .env with your vars
-8. **Editing Vars:**
+   - Edit config.py with your vars
+8. **fill your Velues in config:**
    ```bash
-   vi .env
+   nano config.py
    ```
-   - Edit .env with your values.
-   - Press `I` button on keyboard to start editing.
-   - Press `Ctrl + C`  once you are done with editing vars and type `:wq` to save .env or `:qa` to exit editing.
+   - save edited config.py with your values.
+   - Press `ctrl + s and ctrl + x`
 9. **Installing tmux**
     ```bash
     sudo apt install tmux -y && tmux
