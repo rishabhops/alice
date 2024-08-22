@@ -31,7 +31,7 @@ add cokies in data folder
 
 '''
 
-cookies_file = "data/cookies.txt"
+cookies_file = "cookies/cookies.txt"
 
 class YouTubeAPI:
     def __init__(self):
