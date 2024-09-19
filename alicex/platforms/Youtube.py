@@ -30,8 +30,18 @@ async def shell_cmd(cmd):
 add cokies in data folder
 
 '''
+cookies_dir = "cookies/"
 
-cookies_file = "cookies/cookies.txt"
+# List all files in the directory
+all_files = os.listdir(cookies_dir)
+
+# Filter out only the .txt files
+txt_files = [file for file in all_files if file.endswith(".txt")]
+
+selected_file = random.choice(txt_files)
+
+cookies_file = os.path.join(cookies_dir, selected_file)
+
 
 class YouTubeAPI:
     def __init__(self):
