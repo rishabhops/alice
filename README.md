@@ -19,60 +19,10 @@
 - 🎚 **Volume Mastery:** Adjust to your preferred loudness.
 
 ---
+### 🖇 VPS [Deployment](https://thanos-organization.gitbook.io/alice-music)
+Checkout [Docs](https://thanos-organization.gitbook.io/alice-music) for Detailed Explanation on VPS Deploy
 
-### 🔧 Quick Setup
 
-1. **Upgrade & Update:**
-   ```bash
-   sudo apt-get update && sudo apt-get upgrade -y
-   ```
-
-2. **Install Required Packages:**
-   ```bash
-   sudo apt-get install python3-pip ffmpeg -y
-   ```
-3. **Setting up PIP**
-   ```bash
-   sudo pip3 install -U pip
-   ```
-4. **Installing Node**
-   ```bash
-   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash && source ~/.bashrc && nvm install v18
-   ```
-5. **Clone the Repository**
-   ```bash
-   git clone https://github.com/rishabhops/alice && cd alice
-   ```
-6. **Install Requirements**
-   ```bash
-   pip3 install -U -r requirements.txt
-   ```
-7. **installing nano**
-   ```bash
-   pip3 install nano
-   ```
-   - Edit config.py with your vars
-8. **fill your Velues in config:**
-   ```bash
-   nano config.py
-   ```
-   - save edited config.py with your values.
-   - Press `ctrl + s and ctrl + x`
-9. **Installing tmux**
-    ```bash
-    sudo apt install tmux -y && tmux
-    ```
-10. **Run the Bot**
-    ```bash
-    bash start
-    ```
-
-11. **exit to tmux**
-    ```bash
-    ctrl+b+d
-    ```
-
----
 
 ### 🛠 Commands & Usage
 
