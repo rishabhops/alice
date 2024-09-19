@@ -19,8 +19,13 @@
 - 🎚 **Volume Mastery:** Adjust to your preferred loudness.
 
 ---
+
+
+
 ### 🖇 VPS [Deployment](https://thanos-organization.gitbook.io/alice-music)
-Checkout [Docs](https://thanos-organization.gitbook.io/alice-music) for Detailed Explanation on VPS Deploy
+Checkout [Docs](https://thanos-organization.gitbook.io/alice-music/getting-started/quickstart) for Detailed Explanation on VPS Deploy
+
+
 
 
 
