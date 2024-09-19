@@ -7,7 +7,7 @@ ffmpeg-python
 gitpython
 hachoir
 heroku3
-motor
+motor==2.3.0
 numpy
 opencv-python
 pillow==9.5.0
