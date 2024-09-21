@@ -11,6 +11,7 @@
 
 ### 🌟 Features
 
+- 🎵 **Multiple cookies support:** Play music using multiple cookies to avoid ip issues.
 - 🎵 **Multiple Sources:** Play music from various platforms.
 - 📃 **Queue System:** Line up your favorite songs.
 - 🔀 **Advanced Controls:** Shuffle, repeat, and more.
