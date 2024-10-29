@@ -27,7 +27,7 @@ Check out the [Documentation](https://thanos-organization.gitbook.io/alice-music
 
 ### 📺 How to make cookies in phone
 
-[![Watch the video](https://img.youtube.com/vi/oQd2P3yciPg/0.jpg)](https://www.youtube.com/watch?v=oQd2P3yciPg)
+[![Watch the video](1000019442_enhanced.jpg.png)](https://www.youtube.com/watch?v=oQd2P3yciPg)
 ### 🛠 Commands & Usage
 
 The Alice Music Bot offers various commands to enhance your music experience on Telegram:
