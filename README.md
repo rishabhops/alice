@@ -26,7 +26,7 @@ Check out the [Documentation](https://thanos-organization.gitbook.io/alice-music
 
 
 ### 📺 How to make cookies in phone
-
+just click on thumbnail to watch the tutorial
 [![Watch the video](1000019442_enhanced.jpg.png)](https://www.youtube.com/watch?v=oQd2P3yciPg)
 ### 🛠 Commands & Usage
 
