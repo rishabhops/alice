@@ -1,4 +1,4 @@
-<h1 align="center">🎵 Alice Music Bot 🎵</h1>
+<h1 align="center">🎵 Gairly Music bot 🎵</h1>
 
 <p align="center">
   <img src="(https://envs.sh/jha.jpg)" alt="Gairly Music Logo" width="600" height="350">
