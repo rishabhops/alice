@@ -5,10 +5,11 @@ from dotenv import load_dotenv
 from pyrogram import filters
 
 load_dotenv()
-
+ 
 # Get this value from my.telegram.org/apps
-API_ID = API_ID
-API_HASH = "API_HASH"
+API_ID =  22822374
+API_HASH = 85085c39d1484224199eaf37b0bb2774
+
 
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = "BOT_TOKEN"
@@ -22,7 +23,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 LOG_GROUP_ID = LOG_GROUP_ID
 
 # Get this value from @ultron2_robot on Telegram by /id
-OWNER_ID = OWNER_ID
+OWNER_ID = 7371019826
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -39,8 +40,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = "https://t.me/thanos_pro"
-SUPPORT_GROUP = "https://t.me/thanosprosss"
+SUPPORT_CHANNEL = "https://t.me/musicjakakh"
+SUPPORT_GROUP = "https://t.me/+0xvlUHStyMU1MTNl"
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
