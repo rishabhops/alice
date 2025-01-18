@@ -7,22 +7,22 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps
-API_ID = API_ID
-API_HASH = "API_HASH"
+API_ID = 28609964
+API_HASH = "3236bdf1e11a0fb8091495e083857621"
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = "BOT_TOKEN"
+BOT_TOKEN = "7511908908:AAFxpbbgUQqfW85JeOY-6jR37Alpze1Sndo"
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = "MONGO_DB_URI"
+MONGO_DB_URI = "mongodb+srv://morejaydip68:p70n6TFsTsChq3YX@cluster0.oh9nr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 
 # Chat id of a group for logging bot's activities
-LOG_GROUP_ID = LOG_GROUP_ID
+LOG_GROUP_ID = -1002323533924
 
 # Get this value from @ultron2_robot on Telegram by /id
-OWNER_ID = OWNER_ID
+OWNER_ID = 7168729089
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -39,8 +39,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = "https://t.me/thanos_pro"
-SUPPORT_GROUP = "https://t.me/thanosprosss"
+SUPPORT_CHANNEL = "https://t.me/Darkworldlove"
+SUPPORT_GROUP = "https://t.me/Darkworld_Officiall"
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -62,7 +62,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 2145386496))
 
 
 # Get your pyrogram v2 session from Replit
-STRING1 = "STRING_SESSION"
+STRING1 = "BQG0jawAnJU8jYX7UN4bDkHkLRY7kAFYU9i_LUlSoqczJxJeAQ2kFiilYY_afd9HCaOERYf2ctAbMPjpgFd-FMF5rF5v21XyPhStTDlLCimeqRygEjyqQwq9wsDsE1dfSCDbZ72LpTzlNTW_BWJV-fMjn4qQgYcWPmTDbncd1uiqlxclL4lmnty4YNYfNwzPbZEhnG8s9aGEwxELvSGYxLPzmcdz83smfZO4--tUkFbuHg93WbNIr5JeuY1hZQsQOnmLCwbX_ckwstW1ZmTxZFZpbB0HjrjPY9McW04BcZ2Qe3F1-4NNd6nfAqbj7IQEaFBMf2JSsSpgI5TkCyvjk2L00atNYwAAAAGyJU6JAA"
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -77,7 +77,7 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
+START_IMG_URL = "https://graph.org/file/bd0891a681cf77b51fc74-3e4b9763f94b7f5741.jpg"
 
 PING_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
 
