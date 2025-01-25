@@ -28,3 +28,5 @@ youtube-search
 youtube-search-python
 pymongo==3.12.0
 nano
+flask
+gunicorn
