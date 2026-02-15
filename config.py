@@ -7,22 +7,22 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps
-API_ID = API_ID
-API_HASH = "API_HASH"
+API_ID = 29555662
+API_HASH = "d5420764bf458365083a59c70748e907"
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = "BOT_TOKEN"
+BOT_TOKEN = "8491473656:AAFwmVUeuYLYRLS0szyz0D6bdX6S8rwWeTY"
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = "MONGO_DB_URI"
+MONGO_DB_URI = "mongodb+srv://ffhackerindia098_db_user:ffhackerindia098_db_user@cluster0.rsb3l7b.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 
 # Chat id of a group for logging bot's activities
-LOG_GROUP_ID = LOG_GROUP_ID
+LOG_GROUP_ID = -1002321714948
 
 # Get this value from @ultron2_robot on Telegram by /id
-OWNER_ID = OWNER_ID
+OWNER_ID = 7265739086
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -39,8 +39,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = "https://t.me/thanos_pro"
-SUPPORT_GROUP = "https://t.me/thanosprosss"
+SUPPORT_CHANNEL = "https://t.me/Tahir_update"
+SUPPORT_GROUP = "https://t.me/Music_support_group_Tahir"
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -62,7 +62,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 2145386496))
 
 
 # Get your pyrogram v2 session from Replit
-STRING1 = "STRING_SESSION"
+STRING1 = "BQHC-84AJXVQXWmo1dnScBHEtJPl8lIxBe8WYMCXraZC5sbTL7SDnsL4swU2y_mjQuEhyApB5MGwbbNGgATXUPwwQAR6EztPuioO9wDDwyIpKGEy8lGDjqGSmcxCywrq5MDrGLJz4hxzRTye2pkOCgSPGZ17K3z1VlhPPA2JHZ_wlKe6kV5BrJXaqHesfwq3UTXyX2l2qEdCzDRs0NiUCzzGHW5hGkFDi1A5QlnBMXAVMkii2bB28eLdEht3-5zTx9oJJxVA24D97LCziUIlWMYIMIwRwRY_oHA7dCIdwUcY9vtQOUX5LvAPO_pa8X_A4sQELRx__3w4Ihcf7R2t8Pzt5xggOwAAAAHpkGVvAA"
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -112,3 +112,4 @@ if SUPPORT_GROUP:
         raise SystemExit(
             "[ERROR] - Your SUPPORT_GROUP url is wrong. Please ensure that it starts with https://"
         )
+
